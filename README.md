@@ -1,6 +1,6 @@
 # UvajalniTecaj
 Primer repozitorja
 
-##Moja vaja
+## Moja vaja
 
 Danes vadim Git commit na Macu.
